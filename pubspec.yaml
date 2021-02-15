@@ -1,0 +1,59 @@
+name: final_project_go
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^0.5.2
+  firebase_auth: "^0.18.0+1"
+  flutter_signin_button: ^1.0.0
+  google_sign_in: ^4.5.6
+  image_picker: ^0.6.7+12
+  firebase_storage: ^5.0.0-dev.3
+  cloud_firestore: ^0.14.1+3
+  font_awesome_flutter: ^8.10.0
+  path_provider: ^1.6.24
+  path: ^1.7.0
+  esys_flutter_share: ^1.0.2
+
+  animations: ^1.1.2
+  flip_card: 0.2.1
+  flutter_webview_plugin: ^0.3.11
+  webview_flutter: ^1.0.7
+  carousel_slider: ^2.3.1
+  stop_watch_timer: ^0.6.0+1
+  firebase_ml_vision: ^0.9.9
+  camera: ^0.5.8+11
+  video_player: ^1.0.1
+
+  flutter_calendar_carousel: ^1.5.1
+  share: ^0.6.5+4
+  timer_count_down: ^1.0.4+1
+  shared_preferences: ^0.5.4+5
+  charts_flutter: ^0.9.0
+
+
+
+
+
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
